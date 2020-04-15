@@ -1,0 +1,20 @@
+{
+  "name": "eleventy-plugin-caniuse",
+  "version": "0.1.0",
+  "description": "An Eleventy plugin to embed can I use data on your pages.",
+  "main": ".eleventy.js",
+  "keywords": [
+    "eleventy",
+    "11ty",
+    "caniuse"
+  ],
+  "author": {
+    "name": "Alex Carpenter",
+    "email": "im.alexcarpenter@gmail.com",
+    "url": "https://alexcarpenter.me"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
