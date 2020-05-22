@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-plugin-caniuse",
+  "name": "@alexcarpenter/eleventy-plugin-caniuse",
   "version": "0.1.0",
   "description": "An Eleventy plugin to embed can I use data on your pages.",
   "main": ".eleventy.js",

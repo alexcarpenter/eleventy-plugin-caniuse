@@ -5,11 +5,11 @@
 ## Installation
 
 ```bash
-$ npm i eleventy-plugin-caniuse
+$ npm i @alexcarpenter/eleventy-plugin-caniuse
 ```
 
 ```js
-const caniuse = require('eleventy-plugin-caniuse');
+const caniuse = require('@alexcarpenter/eleventy-plugin-caniuse');
 
 module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(caniuse);
